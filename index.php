@@ -95,12 +95,12 @@
 
 			if (__leftdata && __rightdata)
 			{
-				$("#africastyle").attr("class", __leftdata.rafrica >= __rightdata.rafrica?"b1 " + __leftdata.name:"b2 " + __rightdata.name);
-				$("#asiastyle").attr("class", __leftdata.rasia >= __rightdata.rasia?"b1 " + __leftdata.name:"b2 " + __rightdata.name);
-				$("#oceaniastyle").attr("class", __leftdata.roceania >= __rightdata.roceania?"b1 " + __leftdata.name:"b2 " + __rightdata.name);
-				$("#europestyle").attr("class", __leftdata.reurope >= __rightdata.reurope?"b1 " + __leftdata.name:"b2 " + __rightdata.name);
-				$("#northamericastyle").attr("class", __leftdata.rnorthamerica >= __rightdata.rnorthamerica?"b1 " + __leftdata.name:"b2 " + __rightdata.name);
-				$("#southamericastyle").attr("class", __leftdata.rsouthamerica >= __rightdata.rsouthamerica?"b1 " + __leftdata.name:"b2 " + __rightdata.name);
+				$("#africastyle").attr("class", __leftdata.rafrica > __rightdata.rafrica?"b1 " + __leftdata.name:"b2 " + __rightdata.name);
+				$("#asiastyle").attr("class", __leftdata.rasia > __rightdata.rasia?"b1 " + __leftdata.name:"b2 " + __rightdata.name);
+				$("#oceaniastyle").attr("class", __leftdata.roceania > __rightdata.roceania?"b1 " + __leftdata.name:"b2 " + __rightdata.name);
+				$("#europestyle").attr("class", __leftdata.reurope > __rightdata.reurope?"b1 " + __leftdata.name:"b2 " + __rightdata.name);
+				$("#northamericastyle").attr("class", __leftdata.rnorthamerica > __rightdata.rnorthamerica?"b1 " + __leftdata.name:"b2 " + __rightdata.name);
+				$("#southamericastyle").attr("class", __leftdata.rsouthamerica > __rightdata.rsouthamerica?"b1 " + __leftdata.name:"b2 " + __rightdata.name);
         	}
         	});
 		}
