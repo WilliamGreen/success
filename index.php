@@ -107,15 +107,338 @@
 
 		}
 
+		function myFunction1() {
 
-		</script>
+		var business1name, business2name, business1revenue, business2revenue;
+
+		if (__currentLeft==1)
+		{
+			business1name = "Facebook";
+			business1revenue = "200";
+		}
+
+		if (__currentLeft==2)
+		{
+			business1name = "Twitter";
+			business1revenue = "160";
+		}
+
+		if (__currentLeft==3)
+		{
+			business1name = "Instagram";
+			business1revenue = "100";
+		}
+
+		if (__currentLeft==4)
+		{
+			business1name = "YouTube";
+			business1revenue = "150";
+		}
+
+		if (__currentRight==1)
+		{
+			business2name = "Facebook";
+			business2revenue = "200";
+		}
+
+		if (__currentRight==2)
+		{
+			business2name = "Twitter";
+			business2revenue = "160";
+		}
+
+		if (__currentRight==3)
+		{
+			business2name = "Instagram";
+			business2revenue = "100";
+		}
+
+		if (__currentRight==4)
+		{
+			business2name = "YouTube";
+			business2revenue = "150";
+		}
+    		alert("Africa Revenues\n"+ business1name +": " + business1revenue + "\n" + business2name + ": " + business2revenue +"\n *00 = millions*");
+		}
+
+		function myFunction2() {
+
+		var business1name, business2name, business1revenue, business2revenue;
+
+		if (__currentLeft==1)
+		{
+			business1name = "Facebook";
+			business1revenue = "500";
+		}
+
+		if (__currentLeft==2)
+		{
+			business1name = "Twitter";
+			business1revenue = "600";
+		}
+
+		if (__currentLeft==3)
+		{
+			business1name = "Instagram";
+			business1revenue = "300";
+		}
+
+		if (__currentLeft==4)
+		{
+			business1name = "YouTube";
+			business1revenue = "400";
+		}
+
+		if (__currentRight==1)
+		{
+			business2name = "Facebook";
+			business2revenue = "500";
+		}
+
+		if (__currentRight==2)
+		{
+			business2name = "Twitter";
+			business2revenue = "600";
+		}
+
+		if (__currentRight==3)
+		{
+			business2name = "Instagram";
+			business2revenue = "300";
+		}
+
+		if (__currentRight==4)
+		{
+			business2name = "YouTube";
+			business2revenue = "400";
+		}
+    		alert("Asia Revenues\n"+ business1name +": " + business1revenue + "\n" + business2name + ": " + business2revenue +"\n *00 = millions*");
+		}
+
+		function myFunction3() {
+
+		var business1name, business2name, business1revenue, business2revenue;
+
+		if (__currentLeft==1)
+		{
+			business1name = "Facebook";
+			business1revenue = "400";
+		}
+
+		if (__currentLeft==2)
+		{
+			business1name = "Twitter";
+			business1revenue = "350";
+		}
+
+		if (__currentLeft==3)
+		{
+			business1name = "Instagram";
+			business1revenue = "200";
+		}
+
+		if (__currentLeft==4)
+		{
+			business1name = "YouTube";
+			business1revenue = "300";
+		}
+
+		if (__currentRight==1)
+		{
+			business2name = "Facebook";
+			business2revenue = "400";
+		}
+
+		if (__currentRight==2)
+		{
+			business2name = "Twitter";
+			business2revenue = "350";
+		}
+
+		if (__currentRight==3)
+		{
+			business2name = "Instagram";
+			business2revenue = "200";
+		}
+
+		if (__currentRight==4)
+		{
+			business2name = "YouTube";
+			business2revenue = "300";
+		}
+    		alert("Oceania Revenues\n"+ business1name +": " + business1revenue + "\n" + business2name + ": " + business2revenue +"\n *00 = millions*");
+		}
+
+		function myFunction4() {
+
+		var business1name, business2name, business1revenue, business2revenue;
+
+		if (__currentLeft==1)
+		{
+			business1name = "Facebook";
+			business1revenue = "2000";
+		}
+
+		if (__currentLeft==2)
+		{
+			business1name = "Twitter";
+			business1revenue = "1500";
+		}
+
+		if (__currentLeft==3)
+		{
+			business1name = "Instagram";
+			business1revenue = "1000";
+		}
+
+		if (__currentLeft==4)
+		{
+			business1name = "YouTube";
+			business1revenue = "2200";
+		}
+
+		if (__currentRight==1)
+		{
+			business2name = "Facebook";
+			business2revenue = "2000";
+		}
+
+		if (__currentRight==2)
+		{
+			business2name = "Twitter";
+			business2revenue = "1500";
+		}
+
+		if (__currentRight==3)
+		{
+			business2name = "Instagram";
+			business2revenue = "1000";
+		}
+
+		if (__currentRight==4)
+		{
+			business2name = "YouTube";
+			business2revenue = "2200";
+		}
+    		alert("Europe Revenues\n"+ business1name +": " + business1revenue + "\n" + business2name + ": " + business2revenue +"\n *00 = millions*");
+		}
+
+		function myFunction5() {
+
+		var business1name, business2name, business1revenue, business2revenue;
+
+		if (__currentLeft==1)
+		{
+			business1name = "Facebook";
+			business1revenue = "1000";
+		}
+
+		if (__currentLeft==2)
+		{
+			business1name = "Twitter";
+			business1revenue = "400";
+		}
+
+		if (__currentLeft==3)
+		{
+			business1name = "Instagram";
+			business1revenue = "200";
+		}
+
+		if (__currentLeft==4)
+		{
+			business1name = "YouTube";
+			business1revenue = "800";
+		}
+
+		if (__currentRight==1)
+		{
+			business2name = "Facebook";
+			business2revenue = "1000";
+		}
+
+		if (__currentRight==2)
+		{
+			business2name = "Twitter";
+			business2revenue = "400";
+		}
+
+		if (__currentRight==3)
+		{
+			business2name = "Instagram";
+			business2revenue = "200";
+		}
+
+		if (__currentRight==4)
+		{
+			business2name = "YouTube";
+			business2revenue = "800";
+		}
+    		alert("SA Revenues\n"+ business1name +": " + business1revenue + "\n" + business2name + ": " + business2revenue +"\n *00 = millions*");
+		}
+
+		function myFunction6() {
+
+		var business1name, business2name, business1revenue, business2revenue;
+
+		if (__currentLeft==1)
+		{
+			business1name = "Facebook";
+			business1revenue = "5250";
+		}
+
+		if (__currentLeft==2)
+		{
+			business1name = "Twitter";
+			business1revenue = "6000";
+		}
+
+		if (__currentLeft==3)
+		{
+			business1name = "Instagram";
+			business1revenue = "5000";
+		}
+
+		if (__currentLeft==4)
+		{
+			business1name = "YouTube";
+			business1revenue = "5300";
+		}
+
+		if (__currentRight==1)
+		{
+			business2name = "Facebook";
+			business2revenue = "5250";
+		}
+
+		if (__currentRight==2)
+		{
+			business2name = "Twitter";
+			business2revenue = "6000";
+		}
+
+		if (__currentRight==3)
+		{
+			business2name = "Instagram";
+			business2revenue = "5000";
+		}
+
+		if (__currentRight==4)
+		{
+			business2name = "YouTube";
+			business2revenue = "5300";
+		}
+    		alert("NA Revenues\n"+ business1name +": " + business1revenue + "\n" + business2name + ": " + business2revenue +"\n *00 = millions*");
+		}
+
+</script>
 	</head>
 	<body>
 
 		<!-- Nav -->
 			<nav id="nav">
 				<ul class="container">
-					<li><a href="#contact" class="image icon fa-question"></a></li>
+					<li><a href="#work" class="image icon fa-question"></a></li>
 					<li><a href="http://www.twitter.com/WillGreenDesign" class="image icon fa-twitter"></a></li>
 					<li><a href="http://www.facebook.com/WGDigitalDesign" class="image icon fa-facebook"></a></li>
 					<li><a href="http://www.github.com/WilliamGreen" class="image icon fa-github"></a></li>
@@ -167,7 +490,7 @@ meet">
 /* Africa	                                                                     */
 /*********************************************************************************/
 
-<a xlink:href="http://test.com">
+<a onclick="myFunction1()">
 <g id="africastyle" transform="translate(0,239) scale(0.016963,-0.016963)">
 	<path d="M13728.006,10230.992c-33.994-18.998-83.994-20.984-109.008-4.98c-5.988,3.973-14.998,0.979-18.998-5.008
 		c-5.01-9.01-13.99-9.01-35.004,0.979c-21.99,10.018-28.986,10.018-32.986,0c-2.016-5.988-10.996-11.975-21.014-11.975
@@ -295,7 +618,7 @@ meet">
 /* Asia		                                                                     */
 /*********************************************************************************/
 
-<a xlink:href="http://test.com">
+<a onclick="myFunction2()">
 <g id="asiastyle" transform="translate(0,239) scale(0.016963,-0.016963)">
 	<path d="M17724.988,13637.994c-67.99-17.012-73-18.998-49.971-28.008c18.998-8.002,18.998-8.98-2.016-8.98
 		c-32.988-1.008-37.996-20.006-11.975-47.008c24.984-25.992,44.963-31,51.986-10.994c3.971,9.988,5.986,9.988,5.986,0
@@ -875,7 +1198,7 @@ meet">
 /* Oceania		                                                       			 */
 /*********************************************************************************/
 
-<a xlink:href="http://test.com">
+<a onclick="myFunction3()">
 <g id="oceaniastyle" transform="translate(0,239) scale(0.016963,-0.016963)">
 	<path d="M23109.986,6970.018c-19-11.055-40.012-24.008-46.98-29.016c-8-7.023-13.988-7.023-18.02-1.037
 		c-6.965,11.055-44.961,14.047-44.961,4.031c0-16.984,43.984-64.02,59.988-64.02c27.98,0,49.973-10.938,49.973-24.984
@@ -1008,7 +1331,7 @@ meet">
 /* Europe		                                                       			 */
 /*********************************************************************************/
 
-<a xlink:href="http://test.com">
+<a onclick="myFunction4()">
 <g id="europestyle" transform="translate(0,239) scale(0.016963,-0.016963)">
 	<path d="M16006,13671.01c-4.029-5.008-24.984-12.002-48.992-16.004c-41.969-7.023-127-43.006-137.996-59.01
 		c-4.029-5.008-11.975-5.008-18.02-1.986c-5.986,4.002-10.996,1.986-10.996-3.021c0-5.988,5.988-11.975,13.012-11.975
@@ -1331,7 +1654,7 @@ meet">
 /* South America	                                                       		 */
 /*********************************************************************************/
 
-<a xlink:href="http://test.com">
+<a onclick="myFunction5()">
 <g id="southamericastyle" transform="translate(0,239) scale(0.016963,-0.016963)">
 	<path d="M7577.988,8086.014c-16.982-6.016-27.979-17.012-27.979-28.008c0-10.016-6.016-18.02-14.02-18.02
 		c-6.994,0-24.984-8.98-39.004-19.977c-14.996-12.004-39.982-20.006-60.994-20.006c-23,0-39.004-5.008-41.998-14.996
@@ -1468,7 +1791,7 @@ meet">
 /* North America	                                                       		 */
 /*********************************************************************************/
 
-<a xlink:href="http://test.com">
+<a onclick="myFunction6()">
 <g id="northamericastyle" transform="translate(0,239) scale(0.016963,-0.016963)">
 	<path d="M11660,13759.006c-74.006-4-195.998-10.018-270.004-13.01c-74.006-2.994-147.984-9.01-164.996-12.982
 		c-16.004-3.023-40.99-5.01-55.008-4.029l-24.986,3.021l24.986-21.014c20.006-16.004,22.02-20.006,8.002-20.984
@@ -2211,8 +2534,9 @@ meet">
 						<h2>How does it work?</h2>
 					</header>
 					<body>
-						<p>This site uses a combination of HTML, CSS, JavaScript and PHP to display data from a MySQL database.</p>
-						<p>If you want a more detailed breakdown of development<br><a href="http://dropbox.com">click here </a> to download the project documentation.</p>
+						<p>To compare company successs select a business listed under "selection one" and another under "selection two".</p>
+						<p>Once selected the map and stats will be populated.</p>
+						<p>To view more information about each companies revenue, simply click on a region.</p>
 					</body>
 					<footer>
 						<img src="images/mapreflection.png" alt="" />
@@ -2228,6 +2552,8 @@ meet">
 					<header>
 						<h2>What's it all about?</h2>
 						<p>This site was produced for a University project to demonstrate data manipulation and presentation. The whole thing can be found on my GitHub if you want to see how it works. You can access the repo <a href="https://github.com/WilliamGreen/success">here</a>.</p>
+						<br>
+						<p>If you want a more detailed breakdown of development<br><a href="http://dropbox.com">click here</a> to download the project documentation.</p>
 					</header>
 					<body>
 						<ul id="copyright">
