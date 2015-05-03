@@ -2553,7 +2553,7 @@ meet">
 						<h2>What's it all about?</h2>
 						<p>This site was produced for a University project to demonstrate data manipulation and presentation. The whole thing can be found on my GitHub if you want to see how it works. You can access the repo <a href="https://github.com/WilliamGreen/success">here</a>.</p>
 						<br>
-						<p>If you want a more detailed breakdown of development<br><a href="http://dropbox.com">click here</a> to download the project documentation.</p>
+						<p>If you want a more detailed breakdown of development<br><a href="https://www.dropbox.com/s/stnz1gckmiwj0th/UP678791%20DAMP%20Project%20Documentation.docx?dl=0">click here</a> to download the project documentation.</p>
 					</header>
 					<body>
 						<ul id="copyright">
