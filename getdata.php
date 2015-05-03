@@ -3,11 +3,11 @@
 			$bname = $_REQUEST["bname"];
 			$business = $_GET['bus'];
 
-        	$link = mysqli_connect('localhost', 'root', 'cabbage123'); 
+        	$link = mysqli_connect('eu-cdbr-azure-west-a.cloudapp.net', 'b915fe5d773cac', '8f8338f4'); 
 
-			$servername = "localhost";
-			$username = "root";
-			$password = "cabbage123";
+			$servername = "eu-cdbr-azure-west-a.cloudapp.net";
+			$username = "b915fe5d773cac";
+			$password = "8f8338f4";
 			$dbname = "success";
 
 			// Create connection
